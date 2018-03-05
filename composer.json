@@ -1,5 +1,5 @@
     {
-      "name": "arcus/uuid",
+      "name": "Rax4/uuid",
       "license": "MIT",
       "type": "library",
       "description": "Pdf to uuid converter",
@@ -10,6 +10,5 @@
       },
       "require": {
         "php": ">=5.3.3"
-      },
-      "minimum-stability": "stable"
+      }
     }
