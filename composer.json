@@ -1,0 +1,15 @@
+    {
+      "name": "arcus/uuid",
+      "license": "MIT",
+      "type": "library",
+      "description": "Pdf to uuid converter",
+      "autoload": {
+        "psr-0": {
+          "Arcus\\UUIdBundle": "src/"
+        }
+      },
+      "require": {
+        "php": ">=5.3.3"
+      },
+      "minimum-stability": "stable"
+    }
