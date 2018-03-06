@@ -1,0 +1,4 @@
+services:
+#    arcus_uu_id.example:
+#        class: Arcus\UUIdBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

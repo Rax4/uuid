@@ -1,0 +1,3 @@
+arcus_uu_id_homepage:
+    path:     /
+    defaults: { _controller: ArcusUUIdBundle:Default:index }
