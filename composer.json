@@ -3,7 +3,7 @@
       "description": "Pdf to uuid converter",
       "autoload": {
         "psr-0": {
-          "Arcus\\UUIdBundle": "src/Arcus/UUIdBundle"
+          "Arcus\UUIdBundle": "src/Arcus/UUIdBundle"
         }
       }
     }
