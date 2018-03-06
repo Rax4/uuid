@@ -1,6 +1,6 @@
 <?php
 
-namespace AppBundle\Command;
+namespace Arcus\UUIdBundle\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
